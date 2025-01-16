@@ -1,0 +1,19 @@
+Package: squirrels
+Title: Description Rapide Du but De Votre Package
+Version: 0.1.0.9000
+Authors@R: 
+    person("Jean-Noel", "Thauvin", , "jnthauvin@ragt.fr", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0000-0000-0000"))
+Description: Description longue. Avec un point à la fin de la phrase.
+License: MIT + file LICENSE
+Imports: glue, stringr
+Suggests: knitr, rmarkdown, testthat
+VignetteBuilder: knitr
+Config/fusen/version: 0.6.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+NeedsCompilation: no
+Packaged: 2025-01-16 15:16:39 UTC; rstudio
+Author: Jean-Noel Thauvin [aut, cre] (<https://orcid.org/0000-0000-0000-0000>)
+Maintainer: Jean-Noel Thauvin <jnthauvin@ragt.fr>
